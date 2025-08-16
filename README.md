@@ -2,6 +2,10 @@
 
 Este projeto faz parte de um tutorial do YouTube sobre o framework **Agno**, demonstrando como construir uma equipe de agentes de IA colaborativos para análise financeira.
 
+# Tutorial Youtube:
+
+Acompanhe a explicação do projeto assistindo meu video do youtube: https://youtu.be/EURwUhnHDmk
+
 ## Sobre o Projeto
 
 O projeto implementa uma equipe de análise financeira composta por dois agentes especializados:
