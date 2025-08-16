@@ -1,0 +1,19 @@
+[project]
+name = "explorando-agno"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agno>=1.7.9",
+    "ddgs>=9.5.2",
+    "duckduckgo-search>=8.1.1",
+    "fastapi[standard]>=0.116.1",
+    "markdownify>=1.1.0",
+    "openai>=1.99.5",
+    "packaging>=21.0",
+    "python-dotenv>=1.1.1",
+    "sqlalchemy>=2.0.42",
+    "uvicorn>=0.35.0",
+    "yfinance>=0.2.65",
+]
